@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2015-04-09T19:21:57Z" finished-at="2015-04-09T19:21:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2015-04-09T19:21:57Z" finished-at="2015-04-09T19:21:57Z">
+      <class name="org.packt.Spring.chapter9.SpringTesting.Calculator.SimpleCalculatorTestNGTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.packt.Spring.chapter9.SpringTesting.Calculator.SimpleCalculatorTestNGTests@1dc8ea3]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2015-04-10T00:51:57Z" finished-at="2015-04-10T00:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAdd()[pri:0, instance:org.packt.Spring.chapter9.SpringTesting.Calculator.SimpleCalculatorTestNGTests@1dc8ea3]" name="verifyAdd" duration-ms="10" started-at="2015-04-10T00:51:57Z" finished-at="2015-04-10T00:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdd -->
+      </class> <!-- org.packt.Spring.chapter9.SpringTesting.Calculator.SimpleCalculatorTestNGTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
